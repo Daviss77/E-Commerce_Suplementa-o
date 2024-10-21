@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body{
+	background-color: #cbcbe4;
+}
+
+.titleUpgrade{
+    text-align: center;
+    margin: 3px 0px;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Shadows Into Light', 'cursive', 'arial';
+    text-shadow: 4px 8px 6px #62606054;
+}
+
+.titleUpgradeSub{
+    font-family: 'Shadows Into Light', 'cursive', 'arial';
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 3px 3px brown;
+    margin: 4px 0px;
+}
+
+img[alt="ilustraçãoPagNew"]{
+	margin: 0 30%;
+	width: 540px;
+	height: 400px;
+}

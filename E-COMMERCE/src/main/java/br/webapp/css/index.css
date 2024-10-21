@@ -1,0 +1,224 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #ecfdf5;
+}
+
+header{
+	position: sticky;
+	top: 0;
+}
+
+/*CABEÇALHO*/
+#container{
+    display: flex;
+    height: 65px;
+    border: 2px solid black;
+    background-color: #1e293b;
+    text-align: center;
+}
+h2{
+    color: #cbd5e1;
+    margin: auto;
+}
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #cbd5e1; 
+}
+.menu{
+    margin-left: 40px;
+}
+.menu:hover{
+    cursor: pointer;
+}
+.login{
+margin: 2px 20px 2px 1px;
+}
+
+.aCabecalho{
+    color: #cbd5e1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+    margin: 20px 10px;
+}
+.aCabecalho:hover{
+    color: #a5f3fc;
+    text-decoration: underline;
+    transition: 0.7s;
+}
+
+.nomeLogin{
+	color: whiteSmoke;
+	margin: 20px 10px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/*============================================================*/
+
+/*Produtos*/
+#marcas{
+    cursor: pointer;
+}
+
+.produtos{
+    display: none;
+}
+
+/*Produtos*/
+/*MENU CORPO*/
+.hamburguer{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 18%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, #e2e8f0, #64748b );
+    box-shadow: 5px 4px 20px rgba(0,0 ,0 ,0.8);
+}
+.menu{
+    display: block;
+}
+
+/*PERZONALIZAÇÃO LETRAS MENU*/
+.hamburguer a{
+    color: black;
+    text-decoration: none;
+}
+.t1{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI';
+    ;
+}
+.pMenu{
+    border-bottom: 1px solid black;
+    text-decoration: none;
+    text-align: center;
+    font-family:' Merriweather', 'Arial';
+    font-weight: bolder;
+    margin: 30px 10px;
+}
+.pMenu:hover{
+    color: #2b2622;
+    font-size: 17px;
+    text-shadow: -1px -1px 1px #d1fae5;
+    padding: 2px;
+    border-bottom: 2.5px solid black;
+    transition: 0.6s;
+}
+.imgCarrinho{
+    margin: 0 0 0 2px;
+    height: 45px;
+    width: 36px;
+}
+
+.hamburguer > ul > li, a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    color: #083344; 
+}
+.hamburguer > ul > li{
+    margin: 17px 8px;
+}
+.hamburguer > ul > li > a:hover{
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.4;
+}
+
+/*AJUSTE IMAGEM*/
+.imgRunning{
+	margin: 10px 20px 2px -70px; 
+	width: 350px;
+	height: 280px;
+}
+
+
+/*BOTÃO voltar*/
+.btVoltar{
+    background-color: #0f172a;
+    color: whitesmoke;
+    padding: 8px;
+    margin-left: 38%;
+    border: 0.6px solid rgba(255, 226, 201, 0.789);
+    border-radius: 10px 4px 10px 4px;
+    
+}
+.btVoltar:hover{
+    padding: 9px;
+    font-weight: bold;
+    font-size: 15px;
+    box-shadow: 2px 3x 8px rgba(255, 255, 255, 0.715);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+/*----------------------------------------------------------*/
+/* MEIO DA TELA*/
+#containerBody{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.item{
+	background-color: #1e293b;
+    text-align: center;
+    border: 2px solid black;
+    margin: 30px 20px;
+    height: 500px;
+    width: 400px;
+}
+
+.item > h1{
+	color: whitesmoke;
+	text-shadow: 3px 3px black;
+	font-family: 'Concert One', 'sans-serif', 'Arial';
+	letter-spacing: 2.5px;
+}
+.item > h1:hover{
+	text-decoration: underline 1.5px #caeeff;
+}
+
+
+.imgInicio{
+	background-color: white;
+	border: 3px solid black;
+	border-radius: 28px;
+    cursor: pointer;
+    height: 300px;
+    width: 320px;
+}
+
+.imgInicio:hover{
+
+	border: 2.5px solid white;
+	box-shadow: 3px 2px 6px #575757;
+	height: 330px;
+	width: 350px;
+	padding: 8px;
+	transition: 1.5s;
+}
+
+
+/*-----------------------------------------------------------*/
+footer{
+	padding: 6px 0;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+    background-color: #1e293b;
+    color: #cbd5e1;
+    margin: 39px 0 0 0;
+    height: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+#containerVizu{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.tituloVizu{
+	color: black;
+	font-family: "Acme";
+	font-size: 28px;
+	margin: 6px 7px;
+}
+
+.itemVizu{
+	border-radius: 7px;
+    width: 520px;
+    height: 450px;
+    border: 1px solid black;
+    text-align: center;
+}
+.itemVizu > h1{
+	font-family: "Acme";
+	border-radius: 7px 7px 0 0;
+	border-bottom: 1.5px solid black;
+	margin: 0;
+	font-size: 36px;
+	padding: 6px;
+	background-color: #a1a1aa; 
+}
+.itemVizu > img{
+	border-radius: 7px;
+    width: 520px;
+    height: 450px;
+
+}  
+
+p{
+	padding: 3.6px;
+    margin: 0px;
+    border-bottom: 2px solid black;
+    
+}
