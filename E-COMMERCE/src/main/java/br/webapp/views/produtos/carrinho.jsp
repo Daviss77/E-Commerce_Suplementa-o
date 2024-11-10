@@ -9,9 +9,11 @@
     <title>Carrinho de Compras</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/produtos/carrinho.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/index.css">
+    <link rel ="stylesheet" href = "${pageContext.request.contextPath}/css/growth/growth.css">
 </head>
 <body>
 	<jsp:include page ="${contextPage.request.contextPath}/includes/header.jsp" />
+	<%@ include file ="/includes/menuHamburguer.jsp"%>
 	
     <div class="container">
         <h1>Carrinho de Compras</h1>

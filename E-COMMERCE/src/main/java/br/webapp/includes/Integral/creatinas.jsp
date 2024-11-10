@@ -8,7 +8,13 @@
 			<p class ="valor">R$ 00,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			
+			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/cremassHipercalorico.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
+			
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -23,7 +29,13 @@
 			<p class ="valor">R$ 00,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			
+			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/creatinaCapsulas.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
+			
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -37,7 +49,13 @@
 			<p class ="valor">R$ 00,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			
+			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/creatinaHardcore.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
+			
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -52,7 +70,13 @@
 			<p class ="valor">R$ 00,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			
+			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/creatinaPura.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
+		
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">

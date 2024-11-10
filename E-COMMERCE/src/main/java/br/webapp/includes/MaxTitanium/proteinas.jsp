@@ -15,19 +15,6 @@
                 
                 </div>
                 
-                 <div class="itemGrowth">
-                    <h1 class="tNome">MAX CREATINA MONO 300g</h1>
-                    <img src="${pageContext.request.contextPath}/imagens/MaxTitanium/imgProteinas/maxCreatinaMono300g.webp" 
-                    alt="produtos">
-                    <p class ="valor">R$ 00,00 </p>
-                    <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
-                        <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
-                            <img src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png" alt="Carrinho de loja" 
-                            class="car" width="30" height="36">
-                        </div>
-                
-                </div>
                 
                  <div class="itemGrowth">
                     <h1 class="tNome">MAX WHEY 900g</h1>

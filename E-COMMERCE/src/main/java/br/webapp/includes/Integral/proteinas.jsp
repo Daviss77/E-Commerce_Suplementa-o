@@ -8,7 +8,13 @@
 			<p class ="valor">R$ 00,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			
+			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/wheyConcentrado.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
+			
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -23,7 +29,11 @@
 			<p class ="valor">R$ 00,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/Vo2Whey.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -38,7 +48,13 @@
 		<p class ="valor">R$ 00,00 </p>
 	<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 	<div class="comprarAndCarrinho">
-		<button class="pay">COMPRAR</button>
+		
+		<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/
+		veganSport.jsp"
+			 alt="linkTelaCompra">
+			<button class="pay">COMPRAR </button>
+			</a>
+		
 		<img
 			src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 			alt="Carrinho de loja" class="car" width="30" height="36">
@@ -53,7 +69,13 @@
 		<p class ="valor">R$ 00,00 </p>
 	<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 	<div class="comprarAndCarrinho">
-		<button class="pay">COMPRAR</button>
+		
+		<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/
+		nutriWheyProtein.jsp"
+			 alt="linkTelaCompra">
+			<button class="pay">COMPRAR </button>
+			</a>
+		
 		<img
 			src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 			alt="Carrinho de loja" class="car" width="30" height="36">
@@ -69,7 +91,14 @@
 		<p class ="valor">R$ 00,00 </p>
 	<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 	<div class="comprarAndCarrinho">
-		<button class="pay">COMPRAR</button>
+	
+		<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/
+													nutriPacote.jsp"
+			 alt="linkTelaCompra">
+			 
+			<button class="pay">COMPRAR </button>
+			</a>
+			
 		<img
 			src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 			alt="Carrinho de loja" class="car" width="30" height="36">
