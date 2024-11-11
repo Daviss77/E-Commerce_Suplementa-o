@@ -6,11 +6,17 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Whey-zero907g.webp"
 			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
-			
+		<p class="valor">R$ 00,00</p>
+
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/wheyZero.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -22,10 +28,16 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Whey-zero837g.webp"
 			alt="produtos">
-		   <p class ="valor">R$ 00,00 </p>
+		<p class="valor">R$ 00,00</p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/wheyZero837.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -37,10 +49,16 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Whey-4hd-refil-837g.webp"
 			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+		<p class="valor">R$ 00,00</p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/whey4hdRefil.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -52,10 +70,16 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Whey-4hd-900g.webp"
 			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+		<p class="valor">R$ 00,00</p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/whey4hd900.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -67,10 +91,16 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Whey-3hd-1,8kg.webp"
 			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+		<p class="valor">R$ 00,00</p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/whey3hd.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -82,10 +112,16 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Protein-7-blend-gourmet-refil-837g.webp"
 			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+		<p class="valor">R$ 00,00</p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+			
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/proteinBlend.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+			
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">
@@ -97,10 +133,16 @@
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Hydrolysis-907.webp"
 			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+		<p class="valor">R$ 00,00</p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
-			<button class="pay">COMPRAR</button>
+		
+		<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/BlackSkull/hydrolysis.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+		
 			<img
 				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
 				alt="Carrinho de loja" class="car" width="30" height="36">

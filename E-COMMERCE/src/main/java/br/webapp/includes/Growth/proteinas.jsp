@@ -9,8 +9,16 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
-                            <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
+
+
+
+			<button class="pay">
+				<a
+					href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/mediumWhey.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+
+			<img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 
                 </div>
@@ -21,7 +29,13 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                           
+			<button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/chocolateFit.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                           
+                           
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -32,7 +46,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                        
+                           	<button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/barraNuts.jsp"
+					alt="linkTelaCompra"> COMPRAR</a>
+			</button>
+			
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -43,7 +62,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                          
+                             	<button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/barraDeProteina.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                          
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -54,7 +78,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                            
+                            	<button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/bebidaLactea.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                            
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -65,7 +94,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                           
+                           <button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/mediumWheyProtein.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                           
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -76,7 +110,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                          
+                            <button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/soyProtein.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                          
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -88,7 +127,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                            
+                             <button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/proteinaErvilha.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                            
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -99,7 +143,12 @@
         
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                            
+                            <button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/albumina.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                            
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -111,7 +160,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                         
+                          <button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/alfajorComWhey.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                         
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>
@@ -122,7 +176,12 @@
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
-                            <button class="pay">COMPRAR</button>
+                            
+                              <button class="pay">
+				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/barraWafer.jsp"
+					alt="linkTelaCompra"> COMPRAR </a>
+			</button>
+                            
                             <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
                         </div>
                 </div>

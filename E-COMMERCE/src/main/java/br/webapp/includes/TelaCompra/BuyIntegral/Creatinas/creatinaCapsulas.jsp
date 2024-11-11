@@ -1,6 +1,6 @@
  <div id="containerPai">
         <div class="itemFilho">
-            <h1>CREATINA PURA <br> DA <br> INTEGRAL</h1>
+            <h1>CREATINA CAPSULAS <br> DA <br> INTEGRAL</h1>
             <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet vitae ab, dolores nostrum ut, eveniet, perfer</h3>
         </div>
 
