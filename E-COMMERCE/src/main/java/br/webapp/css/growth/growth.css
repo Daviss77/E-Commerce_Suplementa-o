@@ -110,6 +110,10 @@ img[alt ="IlustraçãoMenu"]{
     font-size: 15px;
     box-shadow: 2px 2px 5px rgba(91, 87, 87, 0.296);
 }
+
+.addCart{
+	
+}
 .car{
     cursor: pointer;
 }

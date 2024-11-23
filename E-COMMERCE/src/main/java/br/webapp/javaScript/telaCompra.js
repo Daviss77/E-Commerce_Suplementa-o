@@ -1,7 +1,7 @@
 
 let addButton = document.querySelectorAll('.add')[0];
 let subButton = document.querySelectorAll('.Sub')[0];
-let error = document.getElementById('erro');
+
     
 function somarProduto(e) {
     let precoElement = event.target.closest('.itemNeto').querySelector('.preco');

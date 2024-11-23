@@ -3,7 +3,7 @@ import java.io.Serializable;
 
 
 public class Cliente implements Serializable {
-	private String nome;
+	private String idcon;
 	private String cpf;
 	private String telefone;
 	private String bairro;

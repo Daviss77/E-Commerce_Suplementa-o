@@ -4,13 +4,11 @@
             <div id="containerGrowth">
                 <div class="itemGrowth">
                     <h1 class="tNome">WHEY PROTEIN</h1>
-                    <img src="../imagens/Growth/imgProteinas/wheyGrowth.webp" alt="produtos">
-                    <p class ="valor">R$ 00,00 </p>
+                    <img src="../imagens/Growth/imgProteinas/wheyGrowth.webp" class="image-product" alt="produtos">
+                    <p class ="valor" data-preco="20">R$ 20,00 </p>
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
-                        <div class="comprarAndCarrinho">
-
-
+                <div class="comprarAndCarrinho">
 
 			<button class="pay">
 				<a
@@ -18,14 +16,14 @@
 					alt="linkTelaCompra"> COMPRAR</a>
 			</button>
 
-			<img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard"> Card</button>
                         </div>
                 
                 </div>
                 <div class="itemGrowth">
                     <h1 class="tNome">CHOCOLATE FIT</h1>
-                    <img src="../imagens/Growth/imgProteinas/chocolateFit.webp" alt="produtos">
-                   <p class ="valor">R$ 00,00 </p>
+                    <img src="../imagens/Growth/imgProteinas/chocolateFit.webp" class="image-product" alt="produtos">
+                   <p class ="valor" data-preco="40">R$ 40,00 </p>
                     
                     <!--BOTÃO FIXO DE COMPRA E CARRINHO-->
                         <div class="comprarAndCarrinho">
@@ -34,9 +32,7 @@
 				<a href="${pageContext.request.contextPath}/views/produtos/telaCompra/Growth/chocolateFit.jsp"
 					alt="linkTelaCompra"> COMPRAR </a>
 			</button>
-                           
-                           
-                            <img src="../imagens/Icons/carrinho.png" alt="Carrinho de loja" class="car" width="30" height="36">
+                         <button class="addCard"> Card </button>
                         </div>
                 </div>
                 <div class="itemGrowth">

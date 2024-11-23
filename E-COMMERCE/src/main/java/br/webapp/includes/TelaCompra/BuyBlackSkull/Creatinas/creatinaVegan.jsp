@@ -23,9 +23,9 @@
     </div>
 
     <h2 class = "t2Compra">DESCRIÇÃO SOBRE O PRODUTO</h2>
-    	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto sapiente 
-    		facilis voluptates, impedit eveniet quae fugiat neque mollitia eius, voluptatem ab
-     		laboriosam, alias vero necessitatibus quaerat a! Illum, quaerat laboriosam.</p>
+    	<p>Modo de uso: misture 1 colher medida (3 g) em 150 mL de água uma vez ao dia ou conforme prescrição do profissional de saúde.
+
+        Recomendação para adultos acima de 19 anos de idade.</p>
 
  	<img src="${pageContext.request.contextPath}/imagens/BlackSkull/tabelaNutricional/CreatinaVegan.webp"
 			alt="Tabela Nutricional" class="tabelaNutricional">
