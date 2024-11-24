@@ -28,8 +28,8 @@
     			<%@ include file = "../includes/footer.jsp" %>
                   
     <script src="../javaScript/index.js"></script>
-    
     <script type= "module" src="../javaScript/addCard.js"></script>
+    <script type= "module" src="../javaScript/telaCompraCart.js"></script>
   
 </body>
 </html>

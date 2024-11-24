@@ -1,19 +1,18 @@
  <div id="containerPai">
         <div class="itemFilho">
-            <h1>PROTEINA DE ERVILHA <br> DA <br> GROWTH</h1>
+            <h1 class="nomeProdutoCompra">PROTEINA DE ERVILHA <br> DA <br> GROWTH</h1>
             <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet vitae ab, dolores nostrum ut, eveniet, perfer</h3>
         </div>
 
         <div class="itemFilho">
           <img src="${pageContext.request.contextPath}/imagens/Growth/imgProteinas/proteinaDaErvilha.png"
-			alt="Ilustração Produto" class="imgProduto">
+			class="image-product"	alt="Ilustração Produto" class="imgProduto">
         </div>
 
         <div class="itemFilho">
             <div class="itemNeto">
-                <p><strong>QUANTIDADE<button class="add">ADD +</strong> </button> 
-                <button class="Sub"><strong>SUB -</strong> </button> </p> <br>
-                <p class="preco" data-preco="160">160,00 R$</p> <br>
+              
+                <p class="preco valor" data-preco="160">160,00 R$</p> <br>
                 <p id="erro"></p>
                 <p class="textCupom">CUPOM?</p>
                 <input type="text" class="cupom"> <br>

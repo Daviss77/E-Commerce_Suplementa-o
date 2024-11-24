@@ -1,19 +1,18 @@
  <div id="containerPai">
         <div class="itemFilho">
-            <h1> WHEY ZERO 837g <br> DA <br> BLACK SKULL</h1>
+            <h1 class="nomeProdutoCompra"> WHEY ZERO 837g <br> DA <br> BLACK SKULL</h1>
             <h3>- 907G (WHEY PROTEIN ISOLADO)</h3>
         </div>
 
         <div class="itemFilho">
           <img src="${pageContext.request.contextPath}/imagens/BlackSkull/imgProteinas/Whey-zero837g.webp"
-			alt="Ilustração Produto" class="imgProduto">
+			class="image-product"	alt="Ilustração Produto" class="imgProduto">
         </div>
 
         <div class="itemFilho">
             <div class="itemNeto">
-                <p><strong>QUANTIDADE<button class="add">ADD +</strong> </button> 
-                <button class="Sub"><strong>SUB -</strong> </button> </p> <br>
-                <p class="preco" data-preco="50">50,00 R$</p> <br>
+               
+                <p class="preco valor" data-preco="50">50,00 R$</p> <br>
                 <p id="erro"></p>
                 <p class="textCupom">CUPOM?</p>
                 <input type="text" class="cupom"> <br>

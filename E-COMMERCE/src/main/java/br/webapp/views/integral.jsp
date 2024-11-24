@@ -26,7 +26,7 @@
                   
     <script src="../javaScript/index.js"></script>
     <script src="../javaScript/growth.js"></script>
-
+	<script type= "module" src="../javaScript/addCard.js"></script>
 
 </body>
 </html>

@@ -18,8 +18,11 @@
     
     <%@ include file = "../../../../includes/footer.jsp" %>
     
+      <script src="${pageContext.request.contextPath}/javaScript/growth.js"></script>
       <script src="${pageContext.request.contextPath}/javaScript/telaCompra.js"></script>
-     <script src="../../javaScript/index.js"></script>
+      <script src="${pageContext.request.contextPath}/javaScript/index.js"></script>
+      <script src="${pageContext.request.contextPath}/javaScript/telaCompraCart.js"></script>
+      <script src="${pageContext.request.contextPath}/javaScript/carrinho.js"></script>
   
 </body>
 </html>

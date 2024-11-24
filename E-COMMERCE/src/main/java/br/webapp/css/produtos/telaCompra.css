@@ -39,7 +39,7 @@ body{
 }
 .itemNeto > p > button:hover{
     transition: 0.5s;
-    background-color: #1e1b4b;
+   
     color: whitesmoke;
     padding: 2px 10px;
 }
@@ -98,7 +98,7 @@ body{
     letter-spacing: 4px;
     text-decoration: underline 1.5px;
 }
-.imgProduto{
+.image-product{
     background-color: #fafafa;
     width: 475px;
     height: 456px;

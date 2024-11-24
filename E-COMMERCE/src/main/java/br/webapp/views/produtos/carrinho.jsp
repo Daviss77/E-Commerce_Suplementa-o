@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carrinho de Compras</title>
    
+   <link rel="stylesheet" href="${pageContext.request.contextPath}/css/produtos/carrinho.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/index.css">
+     <link rel ="stylesheet" href = "${pageContext.request.contextPath}/css/growth/growth.css">
 </head>
 <body>
 
-    <header>
-        <div id="container">
-            <h2><a href="../views/index.jsp" class="titulo">NGS BY SENACX</a> -|-</h2>
-    </header>
+   <%@ include file ="../../includes/header.jsp" %>
+    
+                        <!--MENU HAMBURGUER PADRÃO -->
+           <%@ include file ="../../includes/menuHamburguer.jsp"%>
 
     <div class="container-table">
         <h1>Carrinho de Compras</h1>
@@ -27,7 +29,7 @@
                 </tr>
             </thead>
             <tbody class="produto">
-                <tr></tr>
+                
             </tbody>
         </table>
         <div class="total">
@@ -36,6 +38,8 @@
         <button class="finalize">Finalizar Compra</button>
     </div>
     <footer>$copy 2024 NGS BY SENACX. Todos os direito reservados.</footer>
+    <script src="../../javaScript/index.js"></script>
+    <script src="../../javaScript/growth.js"></script>
     <script type="module" src="../../javaScript/carrinho.js"></script>
 </body>
 </html>

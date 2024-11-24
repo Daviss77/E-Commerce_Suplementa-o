@@ -1,19 +1,18 @@
  <div id="containerPai">
         <div class="itemFilho">
-            <h1>WHEY CONCENTRADO<br> DA <br> INTEGRAL</h1>
+            <h1 class="nomeProdutoCompra">WHEY CONCENTRADO<br> DA <br> INTEGRAL</h1>
             <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet vitae ab, dolores nostrum ut, eveniet, perfer</h3>
         </div>
 
         <div class="itemFilho">
           <img src="${pageContext.request.contextPath}/imagens/Integral/imgProteinas/wheyConcentrado.png"
-			alt="Ilustração Produto" class="imgProduto">
+			class="image-product"	alt="Ilustração Produto" class="imgProduto">
         </div>
 
         <div class="itemFilho">
             <div class="itemNeto">
-                <p><strong>QUANTIDADE<button class="add">ADD +</strong> </button> 
-                <button class="Sub"><strong>SUB -</strong> </button> </p> <br>
-                <p class="preco" data-preco="85">85,00 R$</p> <br>
+               
+                <p class="preco valor" data-preco="85">85,00 R$</p> <br>
                 <p id="erro"></p>
                 <p class="textCupom">CUPOM?</p>
                 <input type="text" class="cupom"> <br>

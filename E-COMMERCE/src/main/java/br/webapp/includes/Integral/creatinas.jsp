@@ -4,8 +4,8 @@
 		<h1 class="tNome">CREAMASS HIPERCﾁLORICO</h1>
 		<img
 			src="${pageContext.request.contextPath}/imagens/Integral/imgCreatinas/creamassHipercalorico.png"
-			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+			class="image-product"	alt="produtos">
+			<p class ="valor" data-preco="150">R$ 150,00 </p>
 		<!--BOTﾃグ FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
 			
@@ -14,10 +14,7 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-			
-			<img
-				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-				alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 		</div>
 	</div>
 
@@ -25,8 +22,8 @@
 		<h1 class="tNome">CREATINA CAPSULAS</h1>
 		<img
 			src="${pageContext.request.contextPath}/imagens/Integral/imgCreatinas/creatinaCapsulas.png"
-			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+			class="image-product"	alt="produtos">
+			<p class ="valor" data-preco="200">R$ 200,00 </p>
 		<!--BOTﾃグ FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
 			
@@ -35,18 +32,15 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-			
-			<img
-				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-				alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 		</div>
 	</div>
 	<div class="itemGrowth">
 		<h1 class="tNome">CREATINA HARDCORE</h1>
 		<img
 			src="${pageContext.request.contextPath}/imagens/Integral/imgCreatinas/creatinaHardcore.png"
-			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+			class="image-product"	alt="produtos">
+			<p class ="valor" data-preco="230">R$ 230,00 </p>
 		<!--BOTﾃグ FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
 			
@@ -55,10 +49,7 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-			
-			<img
-				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-				alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 		</div>
 	</div>
 
@@ -66,8 +57,8 @@
 		<h1 class="tNome">CREATINA PURA</h1>
 		<img
 			src="${pageContext.request.contextPath}/imagens/Integral/imgCreatinas/creatinaPura.png"
-			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+			class="image-product"	alt="produtos">
+			<p class ="valor" data-preco="250">R$ 0,00 </p>
 		<!--BOTﾃグ FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
 			
@@ -76,10 +67,7 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-		
-			<img
-				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-				alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 		</div>
 
 

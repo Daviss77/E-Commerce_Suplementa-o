@@ -4,8 +4,8 @@
 		<h1 class="tNome">WHEY CONCENTRADO</h1>
 		<img
 			src="${pageContext.request.contextPath}/imagens/Integral/imgProteinas/wheyConcentrado.png"
-			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+			class="image-product"	alt="produtos">
+			<p class ="valor" data-preco="80">R$ 80,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
 			
@@ -14,10 +14,7 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-			
-			<img
-				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-				alt="Carrinho de loja" class="car" width="30" height="36">
+				<button class="addCard">Cart</button>
 		</div>
 	</div>
 	
@@ -25,8 +22,8 @@
 		<h1 class="tNome">VO2 WHEY BAR</h1>
 		<img
 			src="${pageContext.request.contextPath}/imagens/Integral/imgProteinas/vo2Whaybar.png"
-			alt="produtos">
-			<p class ="valor">R$ 00,00 </p>
+			class="image-product"	alt="produtos">
+			<p class ="valor" data-preco="100">R$ 100,00 </p>
 		<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 		<div class="comprarAndCarrinho">
 			<a href ="${pageContext.request.contextPath}/views/produtos/telaCompra/Integral/Vo2Whey.jsp"
@@ -34,9 +31,7 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-			<img
-				src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-				alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 		</div>
 	</div>
 
@@ -44,8 +39,8 @@
 	<h1 class="tNome">VEGAN SPORT</h1>
 	<img
 		src="${pageContext.request.contextPath}/imagens/Integral/imgProteinas/veganSport.png"
-		alt="produtos">
-		<p class ="valor">R$ 00,00 </p>
+		class="image-product"	alt="produtos">
+		<p class ="valor" data-preco="120">R$ 120,00 </p>
 	<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 	<div class="comprarAndCarrinho">
 		
@@ -54,10 +49,7 @@
 			 alt="linkTelaCompra">
 			<button class="pay">COMPRAR </button>
 			</a>
-		
-		<img
-			src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-			alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 	</div>
 </div>
 
@@ -65,8 +57,8 @@
 	<h1 class="tNome">NUTRI WHEY PROTEIN</h1>
 	<img
 		src="${pageContext.request.contextPath}/imagens/Integral/imgProteinas/nutriWheyprotein.png"
-		alt="produtos">
-		<p class ="valor">R$ 00,00 </p>
+		class="image-product"	alt="produtos">
+		<p class ="valor" data-preco="90">R$ 90,00 </p>
 	<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 	<div class="comprarAndCarrinho">
 		
@@ -75,10 +67,7 @@
 			 alt="linkTelaCompra">
 			<button class="pay">COMPRAR </button>
 			</a>
-		
-		<img
-			src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-			alt="Carrinho de loja" class="car" width="30" height="36">
+		<button class="addCard">Cart</button>
 	</div>
 
 </div>
@@ -87,8 +76,8 @@
 	<h1 class="tNome">NUTRI PACOTE</h1>
 	<img
 		src="${pageContext.request.contextPath}/imagens/Integral/imgProteinas/nutriPacote.png"
-		alt="produtos">
-		<p class ="valor">R$ 00,00 </p>
+		class="image-product"	alt="produtos">
+		<p class ="valor" data-preco="150">R$ 150,00 </p>
 	<!--BOTÃO FIXO DE COMPRA E CARRINHO-->
 	<div class="comprarAndCarrinho">
 	
@@ -98,10 +87,7 @@
 			 
 			<button class="pay">COMPRAR </button>
 			</a>
-			
-		<img
-			src="${pageContext.request.contextPath}/imagens/Icons/carrinho.png"
-			alt="Carrinho de loja" class="car" width="30" height="36">
+			<button class="addCard">Cart</button>
 	</div>
 	</div>
 </div>

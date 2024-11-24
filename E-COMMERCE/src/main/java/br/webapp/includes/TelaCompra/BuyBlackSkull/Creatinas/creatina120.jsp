@@ -1,7 +1,7 @@
 
 <div id="containerPai">
 	<div class="itemFilho">
-		<h1>
+		<h1 class="nomeProdutoCompra">
 			CREAPURE CREATINA 120g <br> DA <br> BLACK SKULL
 		</h1>
 		<h3>- 907G (WHEY PROTEIN ISOLADO)</h3>
@@ -10,22 +10,12 @@
 	<div class="itemFilho">
 		<img
 			src="${pageContext.request.contextPath}/imagens/BlackSkull/imgCreatinas/Creapure-creatina120.webp"
-			alt="Ilustração Produto" class="imgProduto">
+			class="image-product"	alt="Ilustração Produto" class="imgProduto">
 	</div>
 
 	<div class="itemFilho">
 		<div class="itemNeto">
-			<p>
-				<strong>QUANTIDADE
-					<button class="add">ADD +
-				</strong>
-				</button>
-				<button class="Sub">
-					<strong>SUB -</strong>
-				</button>
-			</p>
-			<br>
-			<p class="preco" data-preco="180">180,00 R$</p>
+			<p class="preco valor" data-preco="180">180,00 R$</p>
 			<br>
 			<p id="erro"></p>
 			<p class="textCupom">CUPOM?</p>

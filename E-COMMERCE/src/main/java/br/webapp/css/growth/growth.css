@@ -111,8 +111,27 @@ img[alt ="IlustraçãoMenu"]{
     box-shadow: 2px 2px 5px rgba(91, 87, 87, 0.296);
 }
 
-.addCart{
-	
+.addCard{
+    background-color: #1e1b4b;
+    color: whitesmoke;
+    height: 25px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: 7px;
+    border-radius: 15px;
+    border: 3px solid rgb(103, 97, 97);
+}
+.addCard:hover{
+    cursor: pointer;
+    background-color: rgba(141, 230, 200, 0.647);
+    border: 3px solid whitesmoke;
+    color: black;
+    height: 30px;
+    width: 70px;
+    padding: 2px;
+    font-size: 18.5px;
+    font-weight: bold;
+    transition: 0.7s;
 }
 .car{
     cursor: pointer;
