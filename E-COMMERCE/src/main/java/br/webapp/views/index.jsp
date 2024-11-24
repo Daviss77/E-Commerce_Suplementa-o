@@ -28,7 +28,7 @@
     
             <div id="containerBody">
                 <div class="item">
-                    <h1>MAX TITANIUM</h1>
+                    <h1>MAX TITANIUMA</h1>
                     <a href="${pageContext.request.contextPath}/views/maxTitanium.jsp"><img src="${pageContext.request.contextPath}/imagens/MaxTitanium/inicioMax.png" alt="Ilustração de erro" class="imgInicio"></a>
                     <p>
                         RESUMO
